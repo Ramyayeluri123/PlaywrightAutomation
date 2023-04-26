@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef14bc03-91cd-4911-91b0-9a4b843becee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OGftMEAoPoCcUGp546TaGyPA0k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ramya Yelluri/OneDrive - Motivity Labs/Desktop/Selenium Java/PlayWright Automation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramya Yelluri\OneDrive - Motivity Labs\Desktop\Selenium Java\PlayWright Automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PlayWright Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PlayWright Automation" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Ramya Yelluri/OneDrive - Motivity Labs/Desktop/Selenium Java/PlayWright Automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TestClass" />
+      <option name="MAIN_CLASS_NAME" value="com.TestClass.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenTestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TestClass" />
+      <option name="MAIN_CLASS_NAME" value="com.TestClass.OpenTestClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenTestClass.doSearching" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TestClass" />
+      <option name="MAIN_CLASS_NAME" value="com.TestClass.OpenTestClass" />
+      <option name="METHOD_NAME" value="doSearching" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenTestClass.homePageUrlTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TestClass" />
+      <option name="MAIN_CLASS_NAME" value="com.TestClass.OpenTestClass" />
+      <option name="METHOD_NAME" value="homePageUrlTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.OpenTestClass" />
+        <item itemvalue="TestNG.C:/Users/Ramya Yelluri/OneDrive - Motivity Labs/Desktop/Selenium Java/PlayWright Automation/testng.xml" />
+        <item itemvalue="TestNG.OpenTestClass.doSearching" />
+        <item itemvalue="TestNG.OpenTestClass.homePageUrlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef14bc03-91cd-4911-91b0-9a4b843becee" name="Changes" comment="" />
+      <created>1681192053770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681192053770</updated>
+    </task>
+    <servers />
+  </component>
+</project>
