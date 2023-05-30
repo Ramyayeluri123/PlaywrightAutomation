@@ -12,7 +12,7 @@ public class Practice {
 //        page.locator("#join").type("she");
         Locator locator= page.locator("#join");
       locator.press("End");//it enters the text in the end of the text field
-    locator.type("nandhana");// it fills one by one
+    locator.type("Nandhana");// it fills one by one
         locator.press("Tab");//this is used to go for the next line of text
         String value=page.locator("id=getMe").getAttribute("value");
         page.locator("#clearMe").clear();

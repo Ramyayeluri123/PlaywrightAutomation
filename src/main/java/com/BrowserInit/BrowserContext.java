@@ -12,13 +12,13 @@ public class BrowserContext {
         Locator locator=page.locator("//input[@formcontrolname=\"username\"]");
         locator.type("ortoni");
         System.out.println(locator);
-//page.locator("//input[@formcontrolname=\"username\"]").type("ortoni");
-page.locator("//input[@formcontrolname=\"password\"]").type("Pass1234$");
-page.locator("//button[@color=\"primary\"]").click();
-        page.locator("//span[@id=\"mat-badge-content-0\"]").click();
+       //page.locator("//input[@formcontrolname=\"username\"]").type("ortoni");
+       page.locator("//input[@formcontrolname=\"password\"]").type("Pass1234$");
+       page.locator("//button[@color=\"primary\"]").click();
+       page.locator("//span[@id=\"mat-badge-content-0\"]").click();
        page.bringToFront();
         page.locator("input[type='search']").type("HP2");
-page.close();
+        page.close();
         com.microsoft.playwright.BrowserContext context1=browser.newContext();
         Page page1=context1.newPage();
         page1.navigate("https://bookcart.azurewebsites.net/login");

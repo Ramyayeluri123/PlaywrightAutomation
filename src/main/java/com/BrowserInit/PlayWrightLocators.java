@@ -13,7 +13,7 @@ public class PlayWrightLocators {
         page.navigate("https://letcode.in/test");
         page.locator("'Click'").click();
         System.out.println(page.url());
-        page.locator("button:has-text('Goto Home')").click();
+        page.locator(" ").click();
         System.out.println(page.url());
 //        Thread.sleep(3000);
         page.locator("nav:text('Product')").click();

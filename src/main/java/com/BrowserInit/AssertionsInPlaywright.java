@@ -21,8 +21,5 @@ public class AssertionsInPlaywright {
         assertThat(page.locator("#notfoo")).isChecked();
         page.close();
         playwright.close();
-
-
-
     }
 }
